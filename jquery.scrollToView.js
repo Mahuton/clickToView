@@ -7,9 +7,7 @@
       "speed":1000,
       "viewLevel":190
     };
-
-
-
+    
     var settings = $.extend( {}, defaults, options);
 
     return this.each(function()
