@@ -5,7 +5,7 @@ This is a plugin based on Jquery library. So be sure to have jquery present in y
 To use scrollToView plugin, you need to
 + download the jquery.scrollToView.js file to your website directory and call it in your page head
 **<script type="text/javascript" src="jquery.clickToView.min.js"></script>**
-+ Call the function scrollToviw() to the targeted element that is the element you want to scroll to viewLevel
++ Call the function scrollToView() to the targeted element that is the element you want to scroll to viewLevel
 
 ### Options
 The options is the parameters you should pass to the scrollToview() function. Options is a JS object with 3 properties thar are the parameters.
